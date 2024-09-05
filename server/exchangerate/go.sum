@@ -1,0 +1,4 @@
+github.com/Garbelin3/client-server-api v0.0.0-20240905134731-e47eac44e231 h1:zlAieY5GxDc55zi32bNV9xH3nkwVyXzCV948tJiIWyQ=
+github.com/Garbelin3/client-server-api v0.0.0-20240905134731-e47eac44e231/go.mod h1:ejkBp5gia+0BsTTHbH1sAH3GLaD09A5mLgmFo5R3RhU=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=

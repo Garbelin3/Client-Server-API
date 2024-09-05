@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"github.com/Garbeline3/client-server-api/client/exchangerate"
+	"github.com/Garbelin3/client-server-api/client/exchangerate"
 )
 
 func main() {
